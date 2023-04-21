@@ -215,8 +215,9 @@ ElgazarBot.sendMessage(anu.id, buttonMessage, {quoted:unicorndoc})
                     xeonbody = `⋆ مع السلامه 👋
 , @${xeonName.split("@")[0]}, 
 ꔹ━━━━━ꔹ
-⋆ حد يبقي في جروب قمر زي جروب
-${metadata.subject} ويغادر😂.
+⋆𝑩𝒀𝑬 𝑩𝒀𝑬 𝑫𝑶𝑵𝑻 𝑩𝑨𝑪𝑲 𝑩𝑹𝑶☕🌿 , 
+
+${metadata.subject} وير😂.
 ꔹ━━━━━ꔹ
 ⋆ عدد الاعضاء..
 ${xeonmembers} عضو
@@ -240,7 +241,7 @@ buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
 title: `${ownername}`,
-body: `مع السلامه تخرج يجي غيرك😉✨.`,
+body: `𝑩𝒀𝑬☕🌿 ,.`,
 mediaType:2,
 thumbnail: XeonLft,
 sourceUrl: `${websitex}`,
