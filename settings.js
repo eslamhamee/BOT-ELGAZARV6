@@ -28,8 +28,8 @@ global.linkz = "https://youtube.com/@ABDALLAH_MOHAMED" //your theme url which wi
 global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
 global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
 global.themeemoji = "♥" //ur theme emoji
-global.packname = "بوت مملكه اوتشيها🦅🩸⍣" //ur sticker watermark packname
-global.author = "⍣01098906252⍣" //ur sticker watermark author
+global.packname = "☠️𝐔𝐂𝐇𝐈𝐇𝐀 𝐁𝐎𝐓🤖" //ur sticker watermark packname
+global.author = "𝐔.𝐊.𝐃 𝐁𝐎𝐓🩸" //ur sticker watermark author
 global.wm = "𝑼𝑪𝑯𝑰𝑯𝑨 𝑩𝑶𝑻☕🌿 ," //ur watermark
 
 // Other
