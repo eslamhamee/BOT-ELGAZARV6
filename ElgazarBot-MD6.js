@@ -692,7 +692,7 @@ ElgazarBot.sendMessage(from, {text:`\`\`\`「 منع الروابط 」\`\`\`\n\
  
  
  
-تمت البرمجه بواسطه: ELGAZAR ALWAZER`, contextInfo:{mentionedJid:[m.sender]}}, {quoted:m})
+تمت البرمجه بواسطه: 𝑼𝑪𝑯𝑰𝑯𝑨 𝑺𝑨𝑺𝑼𝑲𝑬`, contextInfo:{mentionedJid:[m.sender]}}, {quoted:m})
 } else {
 }
 
